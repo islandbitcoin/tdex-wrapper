@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -ex
+set -e
 # turn on bash's job control
 set -m
   
